@@ -139,13 +139,7 @@ jupyter notebook
 
 ## 📸 Sample Visualizations
 
-*(Add screenshots here to boost impact)*
 
-* Customer distribution charts
-* Campaign success comparisons
-* Correlation heatmaps
-
----
 
 ## 📌 Future Improvements
 
